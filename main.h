@@ -6,13 +6,7 @@
 #include <unistd.h>
 #include "general.h"
 
-/**
- * File: main.h
- *
- * Desc: header file
-**/
-
 /* Entry point of the shell */
 void start(general_t *info);
 
-#endif /* MAIN_H */
+#endif
